@@ -7,7 +7,8 @@ DOMAIN-SUFFIX, elseviewer.com
 DOMAIN-SUFFIX, springer.com
 DOMAIN-SUFFIX, tandfonline.com
 
-DOMAIN-KEYWORD, baidu.com
+DOMAIN-SUFFIX, baidu.com
+DOMAIN-SUFFIX, pan.baidu.com
 DOMAIN-SUFFIX, qq.com
 DOMAIN-SUFFIX, 163.com
 DOMAIN-SUFFIX, jd.com
